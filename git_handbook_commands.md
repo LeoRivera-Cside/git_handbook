@@ -12,12 +12,12 @@
 
 **Branch Pointer**: Snapshot of a commit made in a branch.
 
-## Getting Started\
+## Getting Started
 Create a new Git repository:
->git init \
+>git init 
 
 Stage changes to to the repository:
->git add <file> \   
+>git add <file> 
 
 Create a snapshot of your repository:
 >git commit  
@@ -32,4 +32,7 @@ Add a remote repository to your local configuration:
 >git remote add <remote_repo_name> <remote_repo_url>  
 
 Push a local repository to your remote repository:
->git push -u <remote_repo_name> <local_branch_name>  
+>git push -u <remote_repo_name> <remote_branch_name>  
+
+Pull a remote repository to your local repository:
+>git pull <remote_repo_name> <remote_branch_name>
