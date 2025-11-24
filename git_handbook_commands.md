@@ -1,6 +1,7 @@
-#Git Handbook of Commands
+# Git Handbook of Commands
 
-##Definitions\
+## Definitions
+
 **Repository**: Where the entirety of your project is stored. 
 
 **Current Working Location**: The local environment where files are stored and modified.
@@ -11,7 +12,7 @@
 
 **Branch Pointer**: Snapshot of a commit made in a branch.
 
-##Getting Started\
+## Getting Started\
 Create a new Git repository:
 >git init \
 
