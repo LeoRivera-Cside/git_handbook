@@ -1,11 +1,15 @@
 #Git Handbook of Commands
 
 ##Definitions\
-Repository: Where the entirety of your project is stored. 
-Current Working Location: The local environment where files are stored and modified.
-Staging Area: The step between local and remote repository. You can preview your local work before committing it to your remote repository.
-HEAD Pointer: Snapshot of the current working directory and the commit you are working on.
-Branch Pointer: Snapshot of a commit made in a branch.
+**Repository**: Where the entirety of your project is stored. 
+
+**Current Working Location**: The local environment where files are stored and modified.
+
+**Staging Area**: The step between local and remote repository. You can preview your local work before committing it to your remote repository.
+
+**HEAD Pointer**: Snapshot of the current working directory and the commit you are working on.
+
+**Branch Pointer**: Snapshot of a commit made in a branch.
 
 ##Getting Started\
 Create a new Git repository:
