@@ -32,7 +32,7 @@ Add a remote repository to your local configuration:
 >git remote add <remote_repo_name> <remote_repo_url>  
 
 Push a local repository to your remote repository:
->git push -u <remote_repo_name> <remote_branch_name>  
+>git push -u <remote_repo_name> <local_branch_name>  
 
 Pull a remote repository to your local repository:
->git pull <remote_repo_name> <remote_branch_name>
+>git pull <remote_repo_name> <local_branch_name>
